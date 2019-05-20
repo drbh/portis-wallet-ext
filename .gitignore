@@ -1,0 +1,6 @@
+dist
+node_modules
+src/data.js
+src/main.js
+.cache
+yarn-error.log
